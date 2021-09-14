@@ -1,0 +1,452 @@
+/* screen - web-1920-7 */
+
+.web-1920-7 {
+  background-color: var(--white);
+  height: 1218px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-7 .rectangle-11-R6nOmh {
+  background-color: var(--outer-space);
+  height: 1080px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-7 .groupe-dfilant-2-R6nOmh::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.web-1920-7 .groupe-dfilant-2-R6nOmh {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-7 .datacenter-olek-erstock-684x513-cXNj4S {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.web-1920-7 .rectangle-2-R6nOmh {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-7 .sans-titre-1-R6nOmh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.web-1920-7 .ellipse-2-R6nOmh {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.web-1920-7 .sapinet-R6nOmh {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.web-1920-7 .ellipse-3-R6nOmh {
+  background-color: var(--jade);
+  border-radius: 49px;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.web-1920-7 .ellipse-4-R6nOmh {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.web-1920-7 .rectangle-4-R6nOmh {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.web-1920-7 .espace-client-R6nOmh {
+  background-color: transparent;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 218px;
+}
+
+.web-1920-7 .ligne-1-R6nOmh {
+  background-color: transparent;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.web-1920-7 .rectangle-12-R6nOmh {
+  background-color: var(--white);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 561px;
+  left: 618px;
+  position: absolute;
+  top: 362px;
+  width: 581px;
+}
+
+.web-1920-7 .rectangle-26-R6nOmh {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 1062px;
+  width: 1920px;
+}
+
+.web-1920-7 .x2021-sapinet-16-mentions-lgales-R6nOmh {
+  background-color: transparent;
+  cursor: pointer;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1090px;
+  width: 1091px;
+}
+
+.web-1920-7 .facebook-R6nOmh {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  position: absolute;
+  top: 1110px;
+  width: 52px;
+}
+
+.web-1920-7 .twitter-R6nOmh {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  position: absolute;
+  top: 1110px;
+  width: 53px;
+}
+
+.web-1920-7 .linkedin-R6nOmh {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  position: absolute;
+  top: 1110px;
+  width: 52px;
+}
+
+.web-1920-7 .discorde-R6nOmh {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  position: absolute;
+  top: 1113px;
+  width: 57px;
+}
+
+.web-1920-7 .rectangle-28-R6nOmh {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.web-1920-7 .rectangle-29-R6nOmh {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.web-1920-7 .connexion-lespace-client-R6nOmh {
+  background-color: transparent;
+  height: 302px;
+  left: 694px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 395px;
+  width: 1063px;
+}
+
+.web-1920-7 .span0-Xd4dop {
+}
+
+.web-1920-7 .span1-Xd4dop {
+}
+
+.web-1920-7 .rectangle-37-R6nOmh {
+  background-color: var(--white);
+  border-radius: 12px;
+  height: 53px;
+  left: 732px;
+  position: absolute;
+  top: 559px;
+  width: 345px;
+}
+
+.web-1920-7 .rectangle-38-R6nOmh {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 53px;
+  left: 732px;
+  position: absolute;
+  top: 677px;
+  width: 347px;
+}
+
+.web-1920-7 .rectangle-39-R6nOmh {
+  background-color: var(--white);
+  border-radius: 7px;
+  height: 31px;
+  left: 732px;
+  position: absolute;
+  top: 753px;
+  width: 32px;
+}
+
+.web-1920-7 .rectangle-40-R6nOmh {
+  background-color: var(--jade);
+  border-radius: 13px;
+  height: 53px;
+  left: 732px;
+  position: absolute;
+  top: 817px;
+  width: 347px;
+}
+
+.web-1920-7 .adresse-courriel-R6nOmh {
+  background-color: transparent;
+  color: var(--chicago);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 732px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 513px;
+  width: 295px;
+}
+
+.web-1920-7 .mot-de-passe-R6nOmh {
+  background-color: transparent;
+  color: var(--chicago);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 732px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 631px;
+  width: 295px;
+}
+
+.web-1920-7 .rester-connect-R6nOmh {
+  background-color: transparent;
+  color: var(--chicago);
+  font-family: var(--font-family-segoeui-semibold);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 600;
+  height: auto;
+  left: 779px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 753px;
+  width: 295px;
+}
+
+.web-1920-7 .connexion-R6nOmh {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 863px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 829px;
+  width: 295px;
+}
+
+.web-1920-7 .forgot-R6nOmh {
+  background-color: transparent;
+  color: var(--jade);
+  font-family: var(--font-family-segoeui-regular);
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  height: auto;
+  left: 1012px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 631px;
+  width: 295px;
+}
+
+.web-1920-7 .ligne-17-R6nOmh {
+  background-color: transparent;
+  height: 3px;
+  left: 904px;
+  object-fit: cover;
+  position: absolute;
+  top: 440px;
+  width: 237px;
+}
+
+.web-1920-7 .datacenter-R6nOmh {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: -658px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 210px;
+  width: 831px;
+}
+
+.web-1920-7 .web-R6nOmh {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 223px;
+}
+
+.web-1920-7 .vps-R6nOmh {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 189px;
+}
+
+.web-1920-7 .datacenter-2gaR0W {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 227px;
+}
+
+.web-1920-7 .a-propos-R6nOmh {
+  background-color: transparent;
+  height: auto;
+  left: 1209px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 227px;
+}

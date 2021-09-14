@@ -1,0 +1,755 @@
+/* screen - web-1920-4 */
+
+.web-1920-4 {
+  background-color: var(--white);
+  height: 3397px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-4 .rectangle-11-KxZxWW {
+  background-color: var(--outer-space);
+  height: 3301px;
+  left: 0px;
+  position: fixed;
+  top: -49px;
+  width: 1920px;
+}
+
+.web-1920-4 .groupe-dfilant-2-KxZxWW::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.web-1920-4 .groupe-dfilant-2-KxZxWW {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-4 .datacenter-olek-erstock-684x513-7aawee {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.web-1920-4 .rectangle-2-KxZxWW {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-4 .sans-titre-1-KxZxWW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.web-1920-4 .ellipse-2-KxZxWW {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.web-1920-4 .sapinet-KxZxWW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.web-1920-4 .ellipse-3-KxZxWW {
+  background-color: var(--jade);
+  border-radius: 49px;
+  cursor: pointer;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.web-1920-4 .ellipse-4-KxZxWW {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.web-1920-4 .rectangle-4-KxZxWW {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.web-1920-4 .espace-client-KxZxWW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 218px;
+}
+
+.web-1920-4 .ligne-1-KxZxWW {
+  background-color: transparent;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.web-1920-4 .ligne-3-KxZxWW {
+  background-color: transparent;
+  height: 4px;
+  left: 814px;
+  object-fit: cover;
+  position: absolute;
+  top: 175px;
+  width: 91px;
+}
+
+.web-1920-4 .rectangle-12-KxZxWW {
+  background-color: var(--white);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 790px;
+  left: 267px;
+  position: absolute;
+  top: 1273px;
+  width: 1444px;
+}
+
+.web-1920-4 .rectangle-14-KxZxWW {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 637px;
+  left: -37px;
+  position: absolute;
+  top: 2323px;
+  width: 2092px;
+}
+
+.web-1920-4 .rectangle-18-KxZxWW {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 366px;
+  left: 85px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.web-1920-4 .rectangle-19-KxZxWW {
+  background-color: var(--white);
+  border-radius: 45px;
+  height: 283px;
+  left: 698px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.web-1920-4 .rectangle-21-KxZxWW {
+  background-color: var(--pickled-bluewood);
+  border-radius: 7px;
+  height: 52px;
+  left: 135px;
+  position: absolute;
+  top: 716px;
+  width: 201px;
+}
+
+.web-1920-4 .vps-standard-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 729px;
+  width: 217px;
+}
+
+.web-1920-4 .rectangle-22-KxZxWW {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 366px;
+  left: 698px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.web-1920-4 .rectangle-23-KxZxWW {
+  background-color: var(--niagara);
+  border-radius: 9px;
+  height: 52px;
+  left: 748px;
+  position: absolute;
+  top: 716px;
+  width: 250px;
+}
+
+.web-1920-4 .vps-performances-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 776px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  width: 220px;
+}
+
+.web-1920-4 .rectangle-24-KxZxWW {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 366px;
+  left: 1311px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.web-1920-4 .rectangle-25-KxZxWW {
+  background-color: var(--jade);
+  border-radius: 11px;
+  height: 52px;
+  left: 1361px;
+  position: absolute;
+  top: 716px;
+  width: 174px;
+}
+
+.web-1920-4 .vps-stockage-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 1374px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  width: 239px;
+}
+
+.web-1920-4 .gamme-de-machin-voir-nos-offres-KxZxWW {
+  background-color: transparent;
+  height: 302px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.web-1920-4 .span0-IYzfyx {
+}
+
+.web-1920-4 .span1-IYzfyx {
+}
+
+.web-1920-4 .span2-IYzfyx {
+}
+
+.web-1920-4 .propulsez-vos-s-ntt-disponibles-KxZxWW {
+  background-color: transparent;
+  height: 302px;
+  left: 723px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.web-1920-4 .span0-EGtLLp {
+}
+
+.web-1920-4 .span1-EGtLLp {
+}
+
+.web-1920-4 .span2-EGtLLp {
+}
+
+.web-1920-4 .offre-vps-conue-ntt-disponibles-KxZxWW {
+  background-color: transparent;
+  height: 302px;
+  left: 1336px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.web-1920-4 .span0-8sMoth {
+}
+
+.web-1920-4 .span1-8sMoth {
+}
+
+.web-1920-4 .span2-8sMoth {
+}
+
+.web-1920-4 .rectangle-26-KxZxWW {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 3243px;
+  width: 1920px;
+}
+
+.web-1920-4 .x2021-sapinet-16-mentions-lgales-KxZxWW {
+  background-color: transparent;
+  cursor: pointer;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 3271px;
+  width: 1091px;
+}
+
+.web-1920-4 .facebook-KxZxWW {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  position: absolute;
+  top: 3291px;
+  width: 52px;
+}
+
+.web-1920-4 .twitter-KxZxWW {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  position: absolute;
+  top: 3291px;
+  width: 53px;
+}
+
+.web-1920-4 .linkedin-KxZxWW {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  position: absolute;
+  top: 3291px;
+  width: 52px;
+}
+
+.web-1920-4 .discorde-KxZxWW {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  position: absolute;
+  top: 3294px;
+  width: 57px;
+}
+
+.web-1920-4 .rectangle-28-KxZxWW {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.web-1920-4 .rectangle-29-KxZxWW {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.web-1920-4 .univers-vps-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 386px;
+  width: 601px;
+}
+
+.web-1920-4 .span0-hDPnqu {
+}
+
+.web-1920-4 .span1-hDPnqu {
+}
+
+.web-1920-4 .span2-hDPnqu {
+}
+
+.web-1920-4 .ligne-9-KxZxWW {
+  background-color: transparent;
+  height: 5px;
+  left: 990px;
+  object-fit: cover;
+  position: absolute;
+  top: 454px;
+  width: 224px;
+}
+
+.web-1920-4 .choisissez-la-s-pte-vos-besoins-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 604px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 484px;
+  width: 827px;
+}
+
+.web-1920-4 .span0-iLoWSi {
+}
+
+.web-1920-4 .span1-iLoWSi {
+}
+
+.web-1920-4 .span2-iLoWSi {
+}
+
+.web-1920-4 .ligne-14-KxZxWW {
+  background-color: transparent;
+  height: 5px;
+  left: 759px;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 227px;
+}
+
+.web-1920-4 .gg-KxZxWW {
+  background-color: transparent;
+  border-radius: 27px;
+  height: 610px;
+  left: 1043px;
+  object-fit: cover;
+  position: absolute;
+  top: 1360px;
+  width: 614px;
+}
+
+.web-1920-4 .fr-KxZxWW {
+  background-color: transparent;
+  height: 56px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1418px;
+  width: 70px;
+}
+
+.web-1920-4 .vps-standard-ENs7j8 {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1371px;
+  width: 302px;
+}
+
+.web-1920-4 .dcouvrez-nos-of-technologie-kvm-KxZxWW {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 1492px;
+  width: 555px;
+}
+
+.web-1920-4 .der-KxZxWW {
+  background-color: transparent;
+  height: 53px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1602px;
+  width: 60px;
+}
+
+.web-1920-4 .vps-performances-ENs7j8 {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1552px;
+  width: 302px;
+}
+
+.web-1920-4 .profitez-dun-vp-nration-ryzen-7-KxZxWW {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 1674px;
+  width: 555px;
+}
+
+.web-1920-4 .ert-KxZxWW {
+  background-color: transparent;
+  height: 51px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 1780px;
+  width: 56px;
+}
+
+.web-1920-4 .vps-stockage-ENs7j8 {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1731px;
+  width: 382px;
+}
+
+.web-1920-4 .besoin-de-stock-solution-idale-KxZxWW {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 27px;
+  position: absolute;
+  text-align: left;
+  top: 1847px;
+  width: 555px;
+}
+
+.web-1920-4 .aucune-offre-ne-ond-vos-besoins-KxZxWW {
+  background-color: transparent;
+  color: var(--jade);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-xxl);
+  font-weight: 400;
+  height: 302px;
+  left: 553px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2385px;
+  width: 920px;
+}
+
+.web-1920-4 .span0-cInQAR {
+}
+
+.web-1920-4 .span1-cInQAR {
+}
+
+.web-1920-4 .span2-cInQAR {
+  font-family: var(--font-family-segoeui-regular);
+  font-style: normal;
+}
+
+.web-1920-4 .nous-nous-effor-on-personnalise-KxZxWW {
+  background-color: transparent;
+  height: 302px;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 2510px;
+  width: 1309px;
+}
+
+.web-1920-4 .ligne-15-KxZxWW {
+  background-color: transparent;
+  height: 5px;
+  left: 1142px;
+  object-fit: cover;
+  position: absolute;
+  top: 2452px;
+  width: 341px;
+}
+
+.web-1920-4 .rectangle-3-KxZxWW {
+  background-color: var(--jade);
+  border-radius: 22px;
+  box-shadow: 5px 3px 0px #00000029;
+  height: 119px;
+  left: 726px;
+  position: absolute;
+  top: 2749px;
+  width: 526px;
+}
+
+.web-1920-4 .nous-contacter-KxZxWW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 762px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 2775px;
+  width: 469px;
+}
+
+.web-1920-4 .re-KxZxWW {
+  background-color: transparent;
+  height: 52px;
+  left: 404px;
+  object-fit: cover;
+  position: absolute;
+  top: 1418px;
+  width: 50px;
+}
+
+.web-1920-4 .ggr-KxZxWW {
+  background-color: transparent;
+  height: 47px;
+  left: 405px;
+  object-fit: cover;
+  position: absolute;
+  top: 1782px;
+  width: 46px;
+}
+
+.web-1920-4 .bt-KxZxWW {
+  background-color: transparent;
+  height: 57px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 1600px;
+  width: 49px;
+}
+
+.web-1920-4 .web-KxZxWW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 223px;
+}
+
+.web-1920-4 .vps-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 189px;
+}
+
+.web-1920-4 .datacenter-KxZxWW {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 227px;
+}
+
+.web-1920-4 .a-propos-KxZxWW {
+  background-color: transparent;
+  height: auto;
+  left: 1209px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 227px;
+}

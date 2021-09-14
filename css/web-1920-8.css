@@ -1,0 +1,324 @@
+/* screen - web-1920-8 */
+
+.web-1920-8 {
+  background-color: var(--white);
+  height: 2734px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-8 .rectangle-11-xfbfO6 {
+  background-color: var(--outer-space);
+  height: 2589px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-8 .groupe-dfilant-2-xfbfO6::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.web-1920-8 .groupe-dfilant-2-xfbfO6 {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-8 .datacenter-olek-erstock-684x513-tvMyo4 {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.web-1920-8 .rectangle-2-xfbfO6 {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-8 .sans-titre-1-xfbfO6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.web-1920-8 .ellipse-2-xfbfO6 {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.web-1920-8 .sapinet-xfbfO6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.web-1920-8 .ellipse-3-xfbfO6 {
+  background-color: var(--jade);
+  border-radius: 49px;
+  cursor: pointer;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.web-1920-8 .ellipse-4-xfbfO6 {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.web-1920-8 .rectangle-4-xfbfO6 {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.web-1920-8 .espace-client-xfbfO6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 218px;
+}
+
+.web-1920-8 .ligne-1-xfbfO6 {
+  background-color: transparent;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.web-1920-8 .rectangle-12-xfbfO6 {
+  background-color: var(--white);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 2106px;
+  left: 238px;
+  position: absolute;
+  top: 350px;
+  width: 1444px;
+}
+
+.web-1920-8 .rectangle-26-xfbfO6 {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 2578px;
+  width: 1920px;
+}
+
+.web-1920-8 .x2021-sapinet-16-mentions-lgales-xfbfO6 {
+  background-color: transparent;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 2606px;
+  width: 1091px;
+}
+
+.web-1920-8 .facebook-xfbfO6 {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  position: absolute;
+  top: 2626px;
+  width: 52px;
+}
+
+.web-1920-8 .twitter-xfbfO6 {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  position: absolute;
+  top: 2626px;
+  width: 53px;
+}
+
+.web-1920-8 .linkedin-xfbfO6 {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  position: absolute;
+  top: 2626px;
+  width: 52px;
+}
+
+.web-1920-8 .discorde-xfbfO6 {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  position: absolute;
+  top: 2629px;
+  width: 57px;
+}
+
+.web-1920-8 .rectangle-28-xfbfO6 {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.web-1920-8 .rectangle-29-xfbfO6 {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.web-1920-8 .mentions-lgales-xfbfO6 {
+  background-color: transparent;
+  height: 302px;
+  left: 740px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 395px;
+  width: 1063px;
+}
+
+.web-1920-8 .prsentation-du-alisation-et-de-xfbfO6 {
+  background-color: transparent;
+  color: var(--dove-gray);
+  font-family: var(--font-family-segoe_ui);
+  font-size: var(--font-size-m);
+  font-weight: 400;
+  height: 2057px;
+  left: 293px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 557px;
+  width: 1349px;
+}
+
+.web-1920-8 .span0-Q7N0xL {
+  color: var(--black);
+  font-family: var(--font-family-segoeui-regular);
+  font-style: normal;
+}
+
+.web-1920-8 .span1-Q7N0xL {
+}
+
+.web-1920-8 .web-xfbfO6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 223px;
+}
+
+.web-1920-8 .vps-xfbfO6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 189px;
+}
+
+.web-1920-8 .datacenter-xfbfO6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 227px;
+}
+
+.web-1920-8 .a-propos-xfbfO6 {
+  background-color: transparent;
+  height: auto;
+  left: 1209px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 227px;
+}

@@ -1,0 +1,720 @@
+/* screen - web-1920-3 */
+
+.web-1920-3 {
+  background-color: var(--white);
+  height: 3397px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.web-1920-3 .rectangle-11-3lkoUN {
+  background-color: var(--outer-space);
+  height: 3301px;
+  left: 0px;
+  position: fixed;
+  top: -48px;
+  width: 1920px;
+}
+
+.web-1920-3 .groupe-dfilant-2-3lkoUN::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.web-1920-3 .groupe-dfilant-2-3lkoUN {
+  background-color: transparent;
+  height: 276px;
+  left: 0px;
+  mix-blend-mode: normal;
+  overflow: scroll;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-3 .datacenter-olek-erstock-684x513-3wGbxU {
+  background-color: transparent;
+  height: 1557px;
+  left: -78px;
+  object-fit: cover;
+  position: absolute;
+  top: -141px;
+  width: 2076px;
+}
+
+.web-1920-3 .rectangle-2-3lkoUN {
+  background-color: var(--black);
+  height: 276px;
+  left: 0px;
+  opacity: 0.57;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.web-1920-3 .sans-titre-1-3lkoUN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 145px;
+  left: 108px;
+  object-fit: cover;
+  position: absolute;
+  top: 57px;
+  width: 145px;
+}
+
+.web-1920-3 .ellipse-2-3lkoUN {
+  background-color: transparent;
+  border-radius: 95px;
+  height: 190px;
+  left: 85px;
+  position: absolute;
+  top: 43px;
+  width: 190px;
+}
+
+.web-1920-3 .sapinet-3lkoUN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 232px;
+  letter-spacing: 0.00px;
+  line-height: 45px;
+  position: absolute;
+  text-align: left;
+  top: 138px;
+  white-space: nowrap;
+  width: 396px;
+}
+
+.web-1920-3 .ellipse-3-3lkoUN {
+  background-color: var(--jade);
+  border-radius: 49px;
+  cursor: pointer;
+  height: 98px;
+  left: 1531px;
+  position: absolute;
+  top: 12px;
+  width: 98px;
+}
+
+.web-1920-3 .ellipse-4-3lkoUN {
+  background-color: var(--white);
+  border-radius: 15px;
+  height: 30px;
+  left: 1565px;
+  position: absolute;
+  top: 27px;
+  width: 30px;
+}
+
+.web-1920-3 .rectangle-4-3lkoUN {
+  background-color: var(--white);
+  border-radius: 8px;
+  height: 27px;
+  left: 1558px;
+  position: absolute;
+  top: 67px;
+  width: 45px;
+}
+
+.web-1920-3 .espace-client-3lkoUN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 1640px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 20px;
+  width: 218px;
+}
+
+.web-1920-3 .ligne-1-3lkoUN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 4px;
+  left: 1624px;
+  object-fit: cover;
+  position: absolute;
+  top: 70px;
+  width: 237px;
+}
+
+.web-1920-3 .ligne-3-3lkoUN {
+  background-color: transparent;
+  height: 4px;
+  left: 633px;
+  object-fit: cover;
+  position: absolute;
+  top: 180px;
+  width: 120px;
+}
+
+.web-1920-3 .rectangle-12-3lkoUN {
+  background-color: var(--white);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 790px;
+  left: 267px;
+  position: absolute;
+  top: 1273px;
+  width: 1444px;
+}
+
+.web-1920-3 .rectangle-14-3lkoUN {
+  background-color: var(--white-lilac);
+  border-radius: 49px;
+  box-shadow: 12px 12px 0px #00000029;
+  height: 637px;
+  left: -37px;
+  position: absolute;
+  top: 2323px;
+  width: 2092px;
+}
+
+.web-1920-3 .rectangle-18-3lkoUN {
+  background-color: var(--white);
+  border-radius: 13px;
+  height: 330px;
+  left: 85px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.web-1920-3 .rectangle-19-3lkoUN {
+  background-color: var(--white);
+  border-radius: 45px;
+  height: 283px;
+  left: 698px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.web-1920-3 .rectangle-21-3lkoUN {
+  background-color: var(--pickled-bluewood);
+  border-radius: 7px;
+  height: 52px;
+  left: 135px;
+  position: absolute;
+  top: 716px;
+  width: 243px;
+}
+
+.web-1920-3 .hebergement-web-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 163px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 729px;
+  width: 217px;
+}
+
+.web-1920-3 .rectangle-22-3lkoUN {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 330px;
+  left: 698px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.web-1920-3 .rectangle-23-3lkoUN {
+  background-color: var(--niagara);
+  border-radius: 9px;
+  height: 52px;
+  left: 748px;
+  position: absolute;
+  top: 716px;
+  width: 232px;
+}
+
+.web-1920-3 .nom-de-domaine-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 776px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  width: 191px;
+}
+
+.web-1920-3 .rectangle-24-3lkoUN {
+  background-color: var(--white);
+  border-radius: 9px;
+  height: 330px;
+  left: 1311px;
+  position: absolute;
+  top: 679px;
+  width: 518px;
+}
+
+.web-1920-3 .rectangle-25-3lkoUN {
+  background-color: var(--jade);
+  border-radius: 11px;
+  height: 52px;
+  left: 1361px;
+  position: absolute;
+  top: 716px;
+  width: 254px;
+}
+
+.web-1920-3 .email-professionnel-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 1374px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  position: absolute;
+  text-align: left;
+  top: 728px;
+  width: 239px;
+}
+
+.web-1920-3 .solution-dhberg-voir-nos-offres-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 107px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.web-1920-3 .span0-YfKBJT {
+}
+
+.web-1920-3 .span1-YfKBJT {
+}
+
+.web-1920-3 .span2-YfKBJT {
+}
+
+.web-1920-3 .trouvez-ladress-voir-nos-offres-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 723px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.web-1920-3 .span0-aZfCn8 {
+}
+
+.web-1920-3 .span1-aZfCn8 {
+}
+
+.web-1920-3 .span2-aZfCn8 {
+}
+
+.web-1920-3 .dcouvrez-nos-so-ntt-disponibles-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 1336px;
+  letter-spacing: 0.00px;
+  line-height: 34px;
+  position: absolute;
+  text-align: left;
+  top: 782px;
+  width: 535px;
+}
+
+.web-1920-3 .span0-sx9f0x {
+}
+
+.web-1920-3 .span1-sx9f0x {
+}
+
+.web-1920-3 .span2-sx9f0x {
+}
+
+.web-1920-3 .rectangle-26-3lkoUN {
+  background-color: var(--pickled-bluewood);
+  height: 156px;
+  left: 0px;
+  position: absolute;
+  top: 3243px;
+  width: 1920px;
+}
+
+.web-1920-3 .x2021-sapinet-16-mentions-lgales-3lkoUN {
+  background-color: transparent;
+  cursor: pointer;
+  height: 302px;
+  left: 45px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 3271px;
+  width: 1091px;
+}
+
+.web-1920-3 .facebook-3lkoUN {
+  background-color: transparent;
+  height: 52px;
+  left: 1485px;
+  object-fit: cover;
+  position: absolute;
+  top: 3291px;
+  width: 52px;
+}
+
+.web-1920-3 .twitter-3lkoUN {
+  background-color: transparent;
+  height: 52px;
+  left: 1583px;
+  object-fit: cover;
+  position: absolute;
+  top: 3291px;
+  width: 53px;
+}
+
+.web-1920-3 .linkedin-3lkoUN {
+  background-color: transparent;
+  height: 52px;
+  left: 1682px;
+  object-fit: cover;
+  position: absolute;
+  top: 3291px;
+  width: 52px;
+}
+
+.web-1920-3 .discorde-3lkoUN {
+  background-color: transparent;
+  height: 57px;
+  left: 1780px;
+  object-fit: cover;
+  position: absolute;
+  top: 3294px;
+  width: 57px;
+}
+
+.web-1920-3 .rectangle-28-3lkoUN {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1898px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.web-1920-3 .rectangle-29-3lkoUN {
+  background-color: var(--blue-bayoux);
+  border-radius: 10px;
+  height: 81px;
+  left: 1875px;
+  position: absolute;
+  top: 557px;
+  width: 14px;
+}
+
+.web-1920-3 .univers-web-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 701px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 386px;
+  width: 601px;
+}
+
+.web-1920-3 .span0-AAX2Ni {
+}
+
+.web-1920-3 .span1-AAX2Ni {
+}
+
+.web-1920-3 .span2-AAX2Ni {
+}
+
+.web-1920-3 .ligne-9-3lkoUN {
+  background-color: transparent;
+  height: 5px;
+  left: 990px;
+  object-fit: cover;
+  position: absolute;
+  top: 453px;
+  width: 227px;
+}
+
+.web-1920-3 .choisissez-la-s-pte-vos-besoins-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 604px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 484px;
+  width: 827px;
+}
+
+.web-1920-3 .span0-KMpXKK {
+}
+
+.web-1920-3 .span1-KMpXKK {
+}
+
+.web-1920-3 .span2-KMpXKK {
+}
+
+.web-1920-3 .ligne-14-3lkoUN {
+  background-color: transparent;
+  height: 5px;
+  left: 759px;
+  object-fit: cover;
+  position: absolute;
+  top: 541px;
+  width: 227px;
+}
+
+.web-1920-3 .gh-3lkoUN {
+  background-color: transparent;
+  border-radius: 27px;
+  height: 610px;
+  left: 1043px;
+  object-fit: cover;
+  position: absolute;
+  top: 1360px;
+  width: 614px;
+}
+
+.web-1920-3 .fr-3lkoUN {
+  background-color: transparent;
+  height: 56px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1418px;
+  width: 70px;
+}
+
+.web-1920-3 .hbergement-web-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1371px;
+  width: 302px;
+}
+
+.web-1920-3 .dcouvrez-nos-so-pulss-par-plesk-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1492px;
+  width: 555px;
+}
+
+.web-1920-3 .der-3lkoUN {
+  background-color: transparent;
+  height: 53px;
+  left: 394px;
+  object-fit: cover;
+  position: absolute;
+  top: 1602px;
+  width: 60px;
+}
+
+.web-1920-3 .noms-de-domaine-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1552px;
+  width: 302px;
+}
+
+.web-1920-3 .trouvez-ladress-votre-site-web-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1674px;
+  width: 555px;
+}
+
+.web-1920-3 .ert-3lkoUN {
+  background-color: transparent;
+  height: 51px;
+  left: 400px;
+  object-fit: cover;
+  position: absolute;
+  top: 1780px;
+  width: 56px;
+}
+
+.web-1920-3 .email-professionnel-Wx4Imc {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: left;
+  top: 1731px;
+  width: 382px;
+}
+
+.web-1920-3 .profitez-dune-a-otre-entreprise-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 485px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  top: 1847px;
+  width: 555px;
+}
+
+.web-1920-3 .aucune-offre-ne-ond-vos-besoins-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 553px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: left;
+  top: 2385px;
+  width: 920px;
+}
+
+.web-1920-3 .span0-np2eJZ {
+}
+
+.web-1920-3 .span1-np2eJZ {
+}
+
+.web-1920-3 .span2-np2eJZ {
+}
+
+.web-1920-3 .nous-nous-effor-on-personnalise-3lkoUN {
+  background-color: transparent;
+  height: 302px;
+  left: 412px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 2510px;
+  width: 1309px;
+}
+
+.web-1920-3 .ligne-15-3lkoUN {
+  background-color: transparent;
+  height: 5px;
+  left: 1142px;
+  object-fit: cover;
+  position: absolute;
+  top: 2452px;
+  width: 341px;
+}
+
+.web-1920-3 .rectangle-3-3lkoUN {
+  background-color: var(--jade);
+  border-radius: 22px;
+  box-shadow: 5px 3px 0px #00000029;
+  cursor: pointer;
+  height: 119px;
+  left: 726px;
+  position: absolute;
+  top: 2749px;
+  width: 526px;
+}
+
+.web-1920-3 .nous-contacter-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 762px;
+  letter-spacing: 0.00px;
+  line-height: 50px;
+  position: absolute;
+  text-align: center;
+  top: 2775px;
+  width: 469px;
+}
+
+.web-1920-3 .web-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 608px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 223px;
+}
+
+.web-1920-3 .vps-3lkoUN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 783px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 189px;
+}
+
+.web-1920-3 .datacenter-3lkoUN {
+  background-color: transparent;
+  cursor: pointer;
+  height: auto;
+  left: 977px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 227px;
+}
+
+.web-1920-3 .a-propos-3lkoUN {
+  background-color: transparent;
+  height: auto;
+  left: 1209px;
+  letter-spacing: 0.00px;
+  line-height: 35px;
+  position: absolute;
+  text-align: center;
+  top: 130px;
+  width: 227px;
+}
